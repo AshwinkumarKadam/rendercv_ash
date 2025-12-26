@@ -9,10 +9,14 @@ cv:
   website: 
   social_networks:
     - network: LinkedIn
-      username: rendercv
+      username: Ashwinkumar Kadam
     - network: GitHub
-      username: rendercv
+      username: AshwinkumarKadam
+      
   custom_connections:
+  - placeholder: Ashwin
+    url: https://www.linkedin.com/in/ashwinkumar-kadam
+    fontawesome_icon: linkedin
   sections:
     # Welcome to RenderCV:
     #   - RenderCV reads a CV written in a YAML file, and generates a PDF with professional typography.
