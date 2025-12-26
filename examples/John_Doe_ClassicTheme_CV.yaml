@@ -22,7 +22,7 @@ cv:
     #   - RenderCV reads a CV written in a YAML file, and generates a PDF with professional typography.
     #   - See the [documentation](https://docs.rendercv.com) for more details.
     education:
-      - institution: Princeton University
+      - institution: Cologne University of Applied Sciences
         area: Computer Science
         degree: PhD
         date:
